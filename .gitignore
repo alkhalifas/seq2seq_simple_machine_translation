@@ -1,0 +1,3 @@
+my_checkpoint.pth.tar
+*.tar
+/runs/loss_plot/*
